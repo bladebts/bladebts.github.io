@@ -6,4 +6,4 @@ title: "Cosmin-Alexandru Diac"
 ## Projects
 
 ### To do list in Laravel
-[Deschide aplicația](https://todo-list-o5uu.onrender.com)
+[https://todo-list-o5uu.onrender.com](https://todo-list-o5uu.onrender.com)
